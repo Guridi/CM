@@ -1,15 +1,5 @@
-# Author name
+# Antonio Guridi 1076915
+# Ashley Moreno 1096192
+# Emmanuel Cuevas 1055808
 
-# Notes
-
-# Dependencies
-
-
-
-# Checklist:
-
-- [ ] Unit Tests
-- [ ] Integration Tests
-- [ ] Linter
-- [ ] Doc Updated
-- [ ] Deployment config
+# Grupo #2
