@@ -1,0 +1,27 @@
+{
+  "name": "CM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guridi/CM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guridi/CM/issues"
+  },
+  "homepage": "https://github.com/Guridi/CM#readme",
+  "dependencies": {
+    "eslint": "^8.19.0",
+    "jest": "^28.1.2"
+  }
+}
