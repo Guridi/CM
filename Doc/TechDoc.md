@@ -14,9 +14,9 @@ Under this scheme, version numbers and the way they change convey meaning about 
 
 The phases of our pipeline are:
 
-1.Linter
-2.Build
-3.Test
-4.DeployDev
-5.DeployStage
-6.DeployProd
+1. Linter
+2. Build
+3. Test
+4. DeployDev
+5. DeployStage
+6. DeployProd
